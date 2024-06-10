@@ -59,6 +59,7 @@ cover/
 log.html
 output.xml
 report.html
+interactive_console_output.xml
 
 # Translations
 *.mo
