@@ -75,12 +75,6 @@ Alteração do gerenciador de pacote npm para yarn:
     corepack enable
     yarn --version
 ```
-
-```
-Alteração do gerenciador de pacote npm para yarn:
-    corepack enable
-    yarn --version
-```
 ```
 Instalar o Appium e Appium-doctor:
     npm init
@@ -93,17 +87,17 @@ Instalar o Appium e Appium-doctor:
 
 ```
 Instalar UIAutomator2:
-	npx appium drivers list --installed
-		Caso nao encontre o UIAutomator2 então rode:
-				npx appium driver install uiautomator2
+    npx appium drivers list --installed
+	Caso nao encontre o UIAutomator2 então rode:
+		npx appium driver install uiautomator2
 ```
 
 ```
 Conferir versão do Python e instalar Robotframework & Appium Library:
-	python --version
-	pip --version
+    python --version
+    pip --version
     pip install robotframework
-	robot --version
+    robot --version
     pip install --upgrade robotframework-appiumlibrary
 ```
 
