@@ -24,6 +24,11 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+node_modules/
+result/
+package-lock.json
+package.json
+
 MANIFEST
 
 # PyInstaller
@@ -35,6 +40,7 @@ MANIFEST
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
+
 
 # Unit test / coverage reports
 htmlcov/
@@ -50,6 +56,9 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
+log.html
+output.xml
+report.html
 
 # Translations
 *.mo
@@ -139,6 +148,7 @@ venv.bak/
 
 # mkdocs documentation
 /site
+/result
 
 # mypy
 .mypy_cache/
