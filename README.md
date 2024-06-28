@@ -1,6 +1,6 @@
 
-# Mobile Automation StoneCase 3
-Desafio de automação Mobile da StoneCO
+# Mobile Automation SunFlower
+Automação de um aplicativo [Android](https://github.com/android/sunflower#unsplash-api-key) utilizando o RobotFramework
 
 ## 🚀 Começando 🚀 
 
@@ -156,7 +156,7 @@ Uma pasta "Results" será gerada na raiz do projeto contendo o arquivo "log.html
 
 Sua missão é desenvolver alguns testes automatizados para o aplicativo Sunflower:
 
-   - [APK](https://github.com/laspbr/DESAFIO_QA_3/blob/main/sunflower.apk)
+
    - [DOCUMENTAÇÃO](https://github.com/android/sunflower#unsplash-api-key)
 
 ### Informações sobre a etapa
